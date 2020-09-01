@@ -20,7 +20,7 @@ import login from './pages/login';
 import signup from './pages/signup';
 import user from './pages/user';
 
-axios.defaults.baseURL = "https://us-central1-speak-mind-726ff.cloudfunctions.net/api";
+
 
 
 const theme = createMuiTheme({
